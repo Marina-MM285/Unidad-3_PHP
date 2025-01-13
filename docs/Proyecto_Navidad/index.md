@@ -20,9 +20,21 @@ Descripción
 
 
 ## Estructura
+Tengo una página principal donde podemos registrar nuevos usuario y/o iniciar sesión.
+
+![principal]()
+
+Luego un formulario donde podemos registrar a nuevos usuario a la base de datos.
+
+![registrar]()
+
+Después de haber registrado a los usuarios tengo un formulario para iniciar sesión con alguno de los usuario registrados.
+
+![login]()
 
 
+Está la página de bienvenida a los usuarios que han iniciado sesión con un botón para cerrar sesión y volver al inicio de sesión
+
+![welcome]()
 
 
-
-### Funcionamiento
