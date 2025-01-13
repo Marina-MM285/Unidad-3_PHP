@@ -22,19 +22,37 @@ Descripción
 ## Estructura
 Tengo una página principal donde podemos registrar nuevos usuario y/o iniciar sesión.
 
-![principal]()
+![principal](principal.png)
 
-Luego un formulario donde podemos registrar a nuevos usuario a la base de datos.
+Luego un formulario donde podemos registrar a nuevos usuario a la base de datos.Con un botón que te redirije al inicio de sesión y otro a la página principal.
 
-![registrar]()
+![registrar](registrar.png)
 
-Después de haber registrado a los usuarios tengo un formulario para iniciar sesión con alguno de los usuario registrados.
+Después de haber registrado a los usuarios tengo un formulario para iniciar sesión con alguno de los usuario registrados. Con un botón que te redirije al registro de usuarios y otro a la página principal.
 
-![login]()
+![login](login.png)
 
 
-Está la página de bienvenida a los usuarios que han iniciado sesión con un botón para cerrar sesión y volver al inicio de sesión
+Está la página de bienvenida a los usuarios que han iniciado sesión con un botón para cerrar sesión y volver al inicio de sesión.
 
-![welcome]()
+![welcome](welcome.png)
+
+-----------------------------
+## Funcionamiento
+Añadimos a "samuel" a nuestra base de datos
+
+![registro de usuario](reguser.png)
+
+![registro de usuario](antes_reg.png)
+
+![registro de usuario](despues_reg.png)
+
+
+
+
+
+
+
+
 
 
