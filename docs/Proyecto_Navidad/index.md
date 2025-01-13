@@ -39,7 +39,7 @@ Está la página de bienvenida a los usuarios que han iniciado sesión con un bo
 
 -----------------------------
 ## Funcionamiento
-Añadimos a "samuel" a nuestra base de datos
+Añadimos a "samuel" a nuestra base de datos.
 
 ![registro de usuario](reguser.png)
 
@@ -48,10 +48,11 @@ Añadimos a "samuel" a nuestra base de datos
 ![registro de usuario](despues_reg.png)
 
 
+Iniciamos sesión con el usuario "samuel" que acabamos de registrar.
 
+ ![login de usuario](loguser.png)
 
-
-
+![pag de bienvenida](pagbienvenida.png)
 
 
 
