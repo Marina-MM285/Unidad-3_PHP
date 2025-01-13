@@ -17,3 +17,12 @@ Descripción
     * Utilizar PHP para verificar las credenciales del usuario y permitir el acceso a una página protegida.
 * Control de Sesiones:
     * Implementar el manejo de sesiones en PHP para mantener al usuario autenticado.
+
+
+## Estructura
+
+
+
+
+
+### Funcionamiento
