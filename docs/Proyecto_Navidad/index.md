@@ -54,6 +54,4 @@ Iniciamos sesión con el usuario "samuel" que acabamos de registrar.
 
 ![pag de bienvenida](pagbienvenida.png)
 
-quero subir esto pero ya
-
 
