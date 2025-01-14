@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Inicio de Sesión</title>
+</head>
+
+<style>
+
+    #reg {
+        display: inline-block;
+        padding: 5px 10px;
+        background-color: #84b13c;
+        color: white;
+        text-align: center;
+        text-decoration: none;
+        border-radius: 6px;
+    }
+
+    #volver{
+        display: inline-block;
+                padding: 2px 4px;
+                background-color: #404040;
+                color: white;
+                text-align: center;
+                text-decoration: none;
+                border-radius: 6px;
+                font-size: small;
+    }
+
+</style>
+
+<body>
+<h1>Iniciar Sesión</h1>
+<form action="login.php" method="post">
+    Email:
+    <input type="email" name="email" required>
+    <br>
+
+    Contraseña:
+    <input type="password" name="clave" required>
+    <br>
+
+    <input type="submit" value="Confirmar">
+</form>
+
+<br>
+
+    <a href="../registrar_usuarios/registrar.html" id="reg">Registrarse</a>
+
+    <br>
+
+    <a href="../../principal.html" id="volver">Volver al menú principal</a>
+</body>
+</html>
