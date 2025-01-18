@@ -6,3 +6,35 @@ El objetivo de esta actividad es que desarrolles un sistema funcional de login y
 
 
 ## Estructura
+Las páginas principales són:
+
+* Inicio de sesión
+* Registro
+* Bienvenida
+
+
+## Funcionamiento
+
+* Registro de usuarios
+
+![]()
+
+
+* Inició de sesión de dicho usuario
+
+![]()
+
+
+* Funcionamiento del CAPTCHA
+
+![]()
+
+
+
+
+
+
+![]()
+![]()
+![]()
+
