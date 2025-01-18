@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Registro de Usuario</title>
+</head>
+
+<style>
+
+    #login {
+        display: inline-block;
+        padding: 5px 10px;
+        background-color: #fc5cb9;
+        color: white;
+        text-align: center;
+        text-decoration: none;
+        border-radius: 6px;
+    }
+
+    #volver{
+        display: inline-block;
+                padding: 2px 4px;
+                background-color: #404040;
+                color: white;
+                text-align: center;
+                text-decoration: none;
+                border-radius: 6px;
+                font-size: small;
+    }
+
+</style>
+
+<body>
+<h1>Registro</h1>
+<form action="registrar.php" method="post">
+    Nombre:
+    <input type="text" name="nombre" required>
+    <br>
+
+    Email:
+    <input type="email" name="email" required>
+    <br>
+
+    Contraseña:
+    <input type="password" name="password" required>
+    <br>
+
+    <input type="submit" value="Registrar">
+</form>
+
+<br>
+    <a href="../iniciar_sesion/login.html" id="login">Iniciar sesión</a>
+
+    <br>
+
+    <a href="../../principal.html" id="volver">Volver al menú principal</a>
+
+
+</body>
+</html>

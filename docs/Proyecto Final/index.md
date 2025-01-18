@@ -17,24 +17,19 @@ Las páginas principales són:
 
 * Registro de usuarios
 
-![]()
-
+![registro](reg.png)
+![mensaje del registro](mensaje-reg.png)
+![antes del registro](antes-reg.png)
+![despues del registro](reg-bien.png)
 
 * Inició de sesión de dicho usuario
 
-![]()
-
+![login bien](login-bien.png)
+![pagina de bienvenida](welcome-user.png)
 
 * Funcionamiento del CAPTCHA
 
-![]()
+![login con todo mal](todo-mal.png)
+![mensaje de error](mensaje-mal.png)
 
-
-
-
-
-
-![]()
-![]()
-![]()
 
