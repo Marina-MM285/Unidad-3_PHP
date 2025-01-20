@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Login</title>
+    <link rel="stylesheet" href="estilos.css">
+</head>
+
+<body>
+
+<form action="login.php" method="post">
+
+<h1>Inicio de sesión</h1>
+
+    Usuario:
+    <input type="text" name="usuario" required>
+    <br>
+
+    Contraseña:
+    <input type="password" name="contrasena" required>
+    <br>
+    <br>
+
+    <img src="captcha.php">
+    <br>
+    Introduce el CAPTCHA:
+    <input type="text" name="captcha">
+    <br>
+
+    <input type="submit" value="Login">
+
+    <br>
+    <br>
+
+<p><b>¿No tienes cuenta?</b></p>
+<a href="registro.html" id="reg">Registrate</a>
+
+</form>
+
+</body>
+</html>
